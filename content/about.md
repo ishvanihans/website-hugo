@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Yuh"
 ---
 
 Something about yourself.
