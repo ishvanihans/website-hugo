@@ -1,13 +1,13 @@
 baseURL = "https://ishvanihans.github.io/website-hugo/"
 languageCode = 'en-us'
-title = 'Shibui (渋い)'
+title = "Ishvani's Space"
 theme = "shibui"
-themesDir = "../.."
+themesDir = "themes"
 enableGitInfo = true
 
 [params.author]
-name = "Kien Nguyen-Tuan"
-email = "kiennt2609@gmail.com"
+name = "Ishvani"
+email = ""
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -30,11 +30,11 @@ email = "kiennt2609@gmail.com"
 
 [menu]
   [[menu.main]]
-    name = "Posts"
+    name = "Ishvani"
     url = "/posts/"
     weight = 1
   [[menu.main]]
-    name = "About"
+    name = "Ishvani"
     url = "/about/"
     weight = 2
 
