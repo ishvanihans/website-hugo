@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Shibui (渋い)'
+baseURL = "https://ishvanihans.github.io/website-hugo/"
 theme = "shibui"
+title = "Ishvani's Space"
+languageCode = 'en-us'
 themesDir = "../.."
 enableGitInfo = true
 
