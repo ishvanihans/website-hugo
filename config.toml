@@ -34,7 +34,7 @@ email = ""
     url = "/posts/"
     weight = 1
   [[menu.main]]
-    name = "About"
+    name = "Ishvani"
     url = "/about/"
     weight = 2
 
