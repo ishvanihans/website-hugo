@@ -1,6 +1,6 @@
 baseURL = "https://ishvanihans.github.io/website-hugo/"
 languageCode = 'en-us'
-title = "Ishvani's Space"
+title = "Home"
 theme = "shibui"
 themesDir = "themes"
 enableGitInfo = true
