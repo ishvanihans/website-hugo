@@ -13,9 +13,9 @@
   --spacing-lg: calc(var(--spacing-base) * 2);
 
   /* Base theme knobs */
-  --bg-h: 36;
-  --bg-s: 55%;
-  --bg-l: 94%;
+  --bg-h: 270;
+  --bg-s: 75.4%;
+  --bg-l: 92.4%;
 
   /* Background colors */
   --color-bg-primary: hsl(var(--bg-h) var(--bg-s) var(--bg-l));
