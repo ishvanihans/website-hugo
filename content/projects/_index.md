@@ -6,4 +6,7 @@ menu:
     name: "Projects"
     weight: 2
 ---
-Here are some things I've worked on recently.
+Projects
+└── Information System Design
+    ├── Google Scholar Critique
+    └── Spotify Critique
