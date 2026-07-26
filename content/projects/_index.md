@@ -6,7 +6,8 @@ menu:
     name: "Projects"
     weight: 2
 ---
-Projects
-└── Information System Design
-    ├── Google Scholar Critique
-    └── Spotify Critique
+Analyzing Dark Design Patterns in Netflix's subscription flow 
+
+Analyzing Dark Design Patterns in the U.S. tourist visa application process
+
+
