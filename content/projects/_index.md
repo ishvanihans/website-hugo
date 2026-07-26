@@ -8,6 +8,6 @@ menu:
 ---
 - [Analyzing Dark Design Patterns in Netflix's subscription flow](projects/netflix/) 
 
-[Analyzing Dark Design Patterns in the U.S. tourist visa application process] 
+- [Analyzing Dark Design Patterns in the U.S. tourist visa application process](projects/US-visa)
 
 
