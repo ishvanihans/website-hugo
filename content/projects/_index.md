@@ -6,8 +6,8 @@ menu:
     name: "Projects"
     weight: 2
 ---
-- [Analyzing Dark Design Patterns in Netflix's subscription flow](projects/netflix/) 
+- [Analyzing Dark Design Patterns in Netflix's subscription flow](/netflix/) 
 
-- [Analyzing Dark Design Patterns in the U.S. tourist visa application process](projects/US-visa)
+- [Analyzing Dark Design Patterns in the U.S. tourist visa application process](/US-visa)
 
 
