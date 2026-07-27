@@ -18,7 +18,6 @@
 .projects-list summary {
     cursor: pointer;
     margin-bottom: var(--spacing-sm);
-    list-style: none;
 }
 
 .projects-list summary strong {
