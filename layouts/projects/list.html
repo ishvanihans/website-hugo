@@ -5,9 +5,17 @@
         <ul>
             {{ range (.Pages.GroupByParam "area") }}
             <li>
-                {{ .Key }}
+               <strong>{{ .Key }} ({{ len .Pages }})</strong>
+
+               <ul>
+               {{ range .Pages }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                    </li>
+                {{ end }}
+                </ul>
             </li>
-            {{ end }}
+        {{ end }}
         </ul>
     </div>
 {{ end }}
