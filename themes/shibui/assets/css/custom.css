@@ -8,3 +8,37 @@
   --bg-s: 55%;
   --bg-l: 94%;
 }
+
+/* -----------------------------Projects Page------------------------------ */
+
+.projects-list details {
+    margin: var(--spacing-md) 0;
+}
+
+.projects-list summary {
+    cursor: pointer;
+    margin-bottom: var(--spacing-sm);
+    list-style: none;
+}
+
+.projects-list summary strong {
+    font-weight: bold;
+}
+
+.projects-list summary .project-count {
+    color: var(--color-text-muted);
+}
+
+.projects-list summary::-webkit-details-marker {
+    color: var(--color-text-muted);
+}
+
+.projects-list ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 1.25rem;
+}
+
+.projects-list li {
+    margin: var(--spacing-sm) 0;
+}
