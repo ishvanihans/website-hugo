@@ -1,7 +1,7 @@
 {{ define "main" }}
     <h1>{{ .Title }}</h1>
     {{ .Content }}
-    <div class="time-list">
+    <div>
         <ul>
             {{ range (.Pages.GroupByParam "area") }}
             <li>
