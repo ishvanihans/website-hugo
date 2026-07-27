@@ -1,21 +1,35 @@
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
-    <div>
-        <ul>
-            {{ range (.Pages.GroupByParam "area") }}
-            <li>
-               <strong>{{ .Key }} ({{ len .Pages }})</strong>
 
-               <ul>
-               {{ range .Pages }}
-                    <li>
-                        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-                    </li>
-                {{ end }}
-                </ul>
-            </li>
-        {{ end }}
-        </ul>
-    </div>
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<div class="projects-list">
+
+{{ range (.Pages.GroupByParam "area") }}
+
+<details>
+
+<summary>
+<strong>{{ .Key }}</strong> ({{ len .Pages }})
+</summary>
+
+<ul>
+
+{{ range .Pages }}
+
+<li>
+<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+</li>
+
+{{ end }}
+
+</ul>
+
+</details>
+
+{{ end }}
+
+</div>
+
 {{ end }}
