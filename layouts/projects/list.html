@@ -6,29 +6,32 @@
 
 <div class="projects-list">
 
-{{ range (.Pages.GroupByParam "area") }}
+    {{ range (.Pages.GroupByParam "area") }}
 
-<details>
+        <details>
 
-<summary>
-<strong>{{ .Key }}</strong> ({{ len .Pages }})
-</summary>
+            <summary>
+                <strong>{{ .Key }}</strong>
+                ({{ len .Pages }})
+            </summary>
 
-<ul>
+            <ul>
 
-{{ range .Pages }}
+                {{ range .Pages }}
 
-<li>
-<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-</li>
+                    <li>
+                        <a href="{{ .RelPermalink }}">
+                            {{ .LinkTitle }}
+                        </a>
+                    </li>
 
-{{ end }}
+                {{ end }}
 
-</ul>
+            </ul>
 
-</details>
+        </details>
 
-{{ end }}
+    {{ end }}
 
 </div>
 
