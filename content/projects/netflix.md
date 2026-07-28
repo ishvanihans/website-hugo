@@ -9,7 +9,7 @@ I studied the dark design patterns present in Netflix, an online streaming media
 Netflix has many deceptive design patterns but for this assignment, I decided to focus solely on the deceptive pattern of misdirection, which occurs through the strategies of ‘interface interference’ and ‘Forced Action’. Various sub-strategies including ‘Aesthetic Manipulation’, ‘Hidden Information’, and ‘Trick Questions’ were also found. I observed the prevalence of misdirection on Netflix in the subscription task flow. There were some overlaps in the dark design patterns, so I also named those. However, the overarching theme was that of misdirection.
 
 <figure>
-    <img src="static/images/netflix-images/fig1.png" alt="Pricing for prospective users">
+    <img src="images/netflix-images/fig1.png" alt="Pricing for prospective users">
     <figcaption>
         <em>Figure. 1.</em> Pricing for prospective users
     </figcaption>
