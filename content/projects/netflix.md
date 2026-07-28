@@ -10,7 +10,6 @@ Netflix has many deceptive design patterns but for this assignment, I decided to
 
 <figure>
     <img src="static/images/netflix-images/fig1.png" alt="Pricing for prospective users">
-
     <figcaption>
         <em>Figure. 1.</em> Pricing for prospective users
     </figcaption>
