@@ -10,7 +10,7 @@ Netflix has many deceptive design patterns but for this assignment, I decided to
 
 ![Netflix](static/images/netflix-images/fig1.png)
 <figure>
-    <img src="/website-hugo/images/netflix-images/fig1.png" alt="Pricing for prospective users">
+    <img src="/website-hugo/static/images/netflix-images/fig1.png" alt="Pricing for prospective users">
     <figcaption>
         <em>Figure. 1.</em> Pricing for prospective users
     </figcaption>
