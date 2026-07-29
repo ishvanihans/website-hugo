@@ -2,8 +2,9 @@
   <h1>{{ .Title }}</h1>
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 
-  {{ .Content }}
-  {{ partial "date.html" .Date}}
+{{ if eq .Section "posts" }}
+  {{ partial "date.html" .Date }}
+{{ end }}
 
   {{ if not .IsHome }}
     <div class="terminal-nav">
