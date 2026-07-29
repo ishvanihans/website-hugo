@@ -1,13 +1,13 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
 
-  {{ if eq .Section "posts" }}
-    {{ partial "date.html" .Date }}
-  {{ end }}
-
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 
   {{ .Content }}
+
+  {{ if eq .Section "posts" }}
+    {{ partial "date.html" .Date }}
+  {{ end }}
 
   {{ if not .IsHome }}
     <div class="terminal-nav">
