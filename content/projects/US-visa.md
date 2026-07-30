@@ -1,20 +1,20 @@
 ---
-title: "Analyzing Dark Design Patterns in US visa application"
+title: "A Design Critique of the U.S. Visa Application Process"
 draft: false
 comment: true
-area: Information Systems
+area: User Experience Analysis
 ---
 
 For years, <em><a href=https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things>The Design of Everyday Things</a></em> by Don Norman sat on my "I'll get to it eventually" reading list. An assignment for my information design course finally gave me the perfect excuse to dive in (and boy, had I been sleeping on it). In this critique, I evaluate the process of applying for a U.S. tourist visa through the lens of three of Norman's core human-centered design principles.
 
-The process of applying for a tourist visa for the United States of America varies by country, so I chose Canada (where I'm currently writing this from) as the context for my analysis. This process is spread across different websites – <a href=https://travel.state.gov/content/travel/en/us-visas.html>The Bureau of Consular Affairs website</a> for filling an application form, the <a href=https://ca.usembassy.gov/> US Embassy in Canada website </a> for scheduling a visa appointment, and the <a href=https://www.usembassy.gov/> US Embassy website </a> for locating a US embassy in various locations. Because users must navigate across several interconnected websites, this analysis focuses on the information system as a whole rather than on any individual website. Likewise, the three design principles discussed in this critique correspond to different stages of the visa application journey instead of isolated interface features.
+The process of applying for a tourist visa for the United States of America varies by country, so I chose Canada (where I'm currently writing this from) as the context for my analysis. This process is spread across different websites – <a href=https://travel.state.gov/content/travel/en/us-visas.html>The Bureau of Consular Affairs website</a> for filling an application form, the <a href=https://ca.usembassy.gov/>US Embassy in Canada website</a> for scheduling a visa appointment, and the <a href=https://www.usembassy.gov/>US Embassy website</a> for locating a US embassy in various locations. Because users must navigate across several interconnected websites, this analysis focuses on the information system as a whole rather than on any individual website. Likewise, the three design principles discussed in this critique correspond to different stages of the visa application journey instead of isolated interface features.
 
 Since Canadian citizens do not require a tourist visa to visit the United States, the primary users of this system are likely immigrants, temporary foreign workers, international students, and family members of temporary residents living in Canada. These users are likely to be reasonably comfortable with digital technologies, manage busy schedules, and value an application process that is clear, efficient, and easy to navigate.
 
 ## Design principle 1: Learnability 
 > Learnability refers to how easily first-time users can understand a system and accomplish their goals without needing extensive instruction. A learnable design helps users form a clear mental model of how the system works, making it easier to predict what to do next.
 
-I chose the principle of learnability to evaluate the first stage of the visa application process: figuring out how to apply. This is the initial stage in the process of applying for the visa and the user’s web search typically lands them on <a href=https://travel.state.gov/content/travel/en/us-visas.html> The Bureau of Consular Affairs website. </a>
+I chose the principle of learnability to evaluate the first stage of the visa application process: figuring out how to apply. This is the initial stage in the process of applying for the visa and the user’s web search typically lands them on <a href=https://travel.state.gov/content/travel/en/us-visas.html>The Bureau of Consular Affairs website.</a>
 
 <figure>
     <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig1.png">
@@ -25,7 +25,7 @@ I chose the principle of learnability to evaluate the first stage of the visa ap
 
 At first glance, it looks like the page supports learnability well. The webpage makes use of headers, bullet points, and external links to break down information (Figure 1) for the ease of use and paints a comprehensive picture about the entire process. However, there are opportunities to strengthen the visual hierarchy. For example the 'How to Apply' heading could be made more visually distinct through a larger font size or contrasting colour to better separate it from the subsequent steps. Likewise, numbering the actions, such as 'Complete the Online Visa Application' and 'Schedule an Interview' would reinforce that they form a sequential process rather than a list of unrelated links.
 
-When the user clicks on the first link under ‘How to Apply’ (Figure 1) and lands on to the <a href=https://ca.usembassy.gov/> US Embassy in Canada’s website </a> to consult the instructions, the user has to wade through a series of steps (Figure 2) before finding the relevant link for scheduling an interview.  
+When the user clicks on the first link under ‘How to Apply’ (Figure 1) and lands on to the <a href=https://ca.usembassy.gov/>US Embassy in Canada’s website</a> to consult the instructions, the user has to wade through a series of steps (Figure 2) before finding the relevant link for scheduling an interview.  
 
 <figure>
     <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig2.png">
@@ -74,7 +74,7 @@ Overall, this aspect of the information system is not designed to foster efficie
 ## Design principle 3: Affordance
 > Affordances are the perceived and actual properties of an object that suggest how it can be used. Effective affordances make available actions obvious, helping users understand what interactions are possible without requiring instructions. In digital interfaces, affordances are often communicated through signifiers which are visual cues that indicate the actions users can take.
 
-I chose the principle of affordance to analyse the final stage in the application process – scheduling an interview with the US Embassy in Canada. When the user visits the <a href=https://ais.usvisa-info.com/en-ca> US Embassy in Canada’s website </a> for scheduling an interview, the viewport suggests that there is nothing more to see on the landing page. (Figure 6) 
+I chose the principle of affordance to analyse the final stage in the application process – scheduling an interview with the US Embassy in Canada. When the user visits the <a href=https://ais.usvisa-info.com/en-ca>US Embassy in Canada’s website</a> for scheduling an interview, the viewport suggests that there is nothing more to see on the landing page. (Figure 6) 
 
 <figure>
     <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig6.png">
