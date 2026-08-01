@@ -1,12 +1,13 @@
 ---
 title: "Analyzing Dark Design Patterns in Netflix's subsciption flow"
 draft: false
-area: Information Systems
+area: User Experience Analysis
 ---
+>Deceptive design patterns or dark patterns are design choices that manipulate or mislead users into taking actions they might not otherwise choose. Instead of prioritizing the user's goals, these patterns often exploit cognitive biases, learned behaviours, and familiar interface conventions to benefit the service provider—such as encouraging a purchase, obtaining consent, or making it difficult to cancel a service.
 
-I studied the dark design patterns present in Netflix, an online streaming media website that lets users watch TV shows, movies, and documentaries. In order to watch something on Netflix, the user has to sign up for a monthly paid subscription plan. Netflix is built mainly for entertainment so its intended user group is people who have some spare time in their lives designated for leisure. This could range from students and working individuals who use Netflix after their study or work to retired elders who stay inert at home for most of their time. 
+For this analysis, I examined deceptive design patterns in Netflix's subscription process, focusing particularly on how <a href=https://deceptive.design/book/contents/chapter-16/>misdirection</a>influences users' choices as they navigate pricing and sign-up.
 
-Netflix has many deceptive design patterns but for this assignment, I decided to focus solely on the deceptive pattern of misdirection, which occurs through the strategies of ‘interface interference’ and ‘Forced Action’. Various sub-strategies including ‘Aesthetic Manipulation’, ‘Hidden Information’, and ‘Trick Questions’ were also found. I observed the prevalence of misdirection on Netflix in the subscription task flow. There were some overlaps in the dark design patterns, so I also named those. However, the overarching theme was that of misdirection.
+Netflix is built mainly for entertainment so its intended user group is people who have some spare time in their lives designated for leisure. This could range from students and working individuals who use Netflix after their study or work to retired elders who stay inert at home for most of their time. 
 
 <figure>
     <img src="https://ishvanihans.github.io/website-hugo/images/netflix-images/fig1.png">
@@ -14,7 +15,6 @@ Netflix has many deceptive design patterns but for this assignment, I decided to
         <em>Figure 1. Pricing for prospective users</em> 
     </figcaption>
 </figure>
-
 
 When prospective users access Netflix for the first time, they cannot view the various pricing plans without entering their email IDs and signing up for Netflix. The only pricing information they can see is the range of the plans in the FAQs section (Figure 1). So, when the user has no option but to sign up to see the pricing plans(a ‘Forced Option’ dark design strategy), that’s when the misdirection begins (Figure 2). 
 
