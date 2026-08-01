@@ -1,13 +1,13 @@
 ---
-title: "Analyzing Dark Design Patterns in Netflix's subsciption flow"
+title: "Analyzing Dark Design Patterns in Netflix's Subscription Process"
 draft: false
 area: User Experience Analysis
 ---
->Deceptive design patterns or dark patterns are design choices that manipulate or mislead users into taking actions they might not otherwise choose. Instead of prioritizing the user's goals, these patterns often exploit cognitive biases, learned behaviours, and familiar interface conventions to benefit the service provider—such as encouraging a purchase, obtaining consent, or making it difficult to cancel a service.
+><a href="https://deceptive.design/">Deceptive design</a> patterns or dark patterns are design choices that manipulate or mislead users into taking actions they might not otherwise choose. Instead of prioritizing the user's goals, these patterns often exploit cognitive biases, learned behaviours, and familiar interface conventions to benefit the service provider—such as encouraging a purchase, obtaining consent, or making it difficult to cancel a service. In 2010, User Experience Designer Harry Brignull started [a pattern library]([url](https://deceptive.design/types/)) with the specific goal of naming and shaming deceptive user interfaces. 
 
-For this analysis, I examined deceptive design patterns in Netflix's subscription process, focusing particularly on how <a href=https://deceptive.design/book/contents/chapter-16/>misdirection</a>influences users' choices as they navigate pricing and sign-up.
+For this analysis, I used Harry Brignull's [deceptive design pattern library]([url](https://deceptive.design/types/)) to examine deceptive design patterns in Netflix's subscription process, focusing particularly on how <a href=https://deceptive.design/book/contents/chapter-16/>misdirection</a> influences users' choices as they navigate pricing and sign-up. I also show how these deceptive patterns violate some foundational design principles. 
 
-Netflix is built mainly for entertainment so its intended user group is people who have some spare time in their lives designated for leisure. This could range from students and working individuals who use Netflix after their study or work to retired elders who stay inert at home for most of their time. 
+Netflix is built mainly for entertainment so its intended user group is people who have some spare time in their lives designated for leisure. This could range from students, working individuals, retirees, and anyone seeking on-demand media content. 
 
 <figure>
     <img src="https://ishvanihans.github.io/website-hugo/images/netflix-images/fig1.png">
@@ -16,7 +16,7 @@ Netflix is built mainly for entertainment so its intended user group is people w
     </figcaption>
 </figure>
 
-When prospective users access Netflix for the first time, they cannot view the various pricing plans without entering their email IDs and signing up for Netflix. The only pricing information they can see is the range of the plans in the FAQs section (Figure 1). So, when the user has no option but to sign up to see the pricing plans(a ‘Forced Option’ dark design strategy), that’s when the misdirection begins (Figure 2). 
+When prospective users access Netflix for the first time, they cannot view the various pricing plans without entering their email IDs and signing up for Netflix. The only pricing information they can see is the range of the plans in the FAQs section (Figure 1). So, when the user has no option but to sign up to see the pricing plans(a ‘[Forced Option]([url](https://deceptive.design/types/forced-action/))’ dark design strategy), that’s when the misdirection begins (Figure 2). 
 
 <figure>
     <img src="https://ishvanihans.github.io/website-hugo/images/netflix-images/fig2.png">
@@ -25,7 +25,7 @@ When prospective users access Netflix for the first time, they cannot view the v
     </figcaption>
 </figure>
 
-There is an unchecked box at the sign up stage (Figure 2) for email communication. If the user proceeds to click the ‘Next’ button without checking the box, they will start receiving marketing emails from Netflix. This is a ‘trick question’ and violates the design principle of ‘mapping’ because the correlation between the control and effect is flawed. The action of checking something usually implies an affirmative, so a checkmark does not correctly map to a “do not” statement. Moreover, the design convention of subscribing to an email list involves checking the box instead of leaving it unchecked. Here, Netflix plays on the user’s memory of the design convention of mailing lists and thereby also breaks the design principle of ‘memorability’. The dark design strategy ‘aesthetic manipulation’ is used to achieve this misdirection.
+There is an unchecked box at the sign up stage (Figure 2) for email communication. If the user proceeds to click the ‘Next’ button without checking the box, they will start receiving marketing emails from Netflix. This is a [‘trick wording’]([url](https://deceptive.design/types/trick-wording/)) and violates the design principle of ‘mapping’ because the correlation between the control and effect is flawed. The action of checking something usually implies an affirmative, so a checkmark does not correctly map to a “do not” statement. Moreover, the design convention of subscribing to an email list involves checking the box instead of leaving it unchecked. Here, Netflix plays on the user’s memory of the design convention of mailing lists and thereby also breaks the design principle of ‘memorability’. The dark design strategy of aesthetic manipulation is used to achieve this misdirection.
 
 <figure>
     <img src="https://ishvanihans.github.io/website-hugo/images/netflix-images/fig3.png">
