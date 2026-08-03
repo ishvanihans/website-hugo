@@ -2,7 +2,6 @@
 title: "About"
 ---
 
-\>be me
-\>spend childhood writing stories, making papier mache, shooting films, hosting puppet shows
+Hello, my name is Ishvani, which loosely translates to "god's language"^1. By [nominative determinism]([url](https://en.wikipedia.org/wiki/Nominative_determinism)) or accident, I have gravitated towards roles that let me a vessel for communicating ideas. 
 
-Hello, my name is Ishvani Hans. Usually, people introduce their profession  
+^1 my idea of god is something like chaos theory
