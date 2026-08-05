@@ -55,6 +55,9 @@ h5 {
 h2::before,
 h3::before,
 h4::before,
+h5::before {
+    content: none;
+}
 
 /* Footnotes */
 
@@ -66,7 +69,4 @@ sup {
     border: 0;
     border-top: 1px solid var(--color-border);
     margin-bottom: var(--spacing-md);
-}
-h5::before {
-    content: none;
 }
