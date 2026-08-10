@@ -2,7 +2,7 @@
 title: "About"
 ---
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/IMG_8930.heic">
+    <img src="https://ishvanihans.github.io/website-hugo/images/IMG_8930.png">
 </figure>
 
 
