@@ -1,6 +1,10 @@
 ---
 title: "About"
 ---
+<figure>
+    <img src="https://ishvanihans.github.io/website-hugo/images/IMG_8930.heic">
+</figure>
+
 
 Hello, my name is Ishvani, which loosely translates to "god's language"[^1]. By [nominative determinism]([url](https://en.wikipedia.org/wiki/Nominative_determinism)) or accident, I love being a vessel for communicating ideas I find sublime. Much of my professional career has been spent working as a writer[^2] and now I'm looking for a new role. Titles are fickle and fleeting, but every now and then I come across one that makes me go HELL YES. Here are some of those, and why:
 
