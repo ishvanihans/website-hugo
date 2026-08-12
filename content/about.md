@@ -1,7 +1,7 @@
 ---
 title: "About"
 ---
-<figure style="width: 350px; margin: 1.5em auto;">
+<figure style="float: left; width: 220px; margin: 0 2em 1em 0;">
     <img src="https://ishvanihans.github.io/website-hugo/images/IMG_3950.png">
 </figure>
 
