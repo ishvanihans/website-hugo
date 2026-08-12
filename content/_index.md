@@ -2,10 +2,10 @@
 title: "Ishvani"
 ---
 
-## Introduction
+## August 2026
 
-> “No matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you.” – Carl Jung. 
+> - Looking for a job. Hire me!
+> - Listening to Michelle Gurevich, Crumb, and Ms. Lauryn Hill
+> - Reading Murakami's Norwegian Woods
 
-## Part deux
 
-What do you want?
