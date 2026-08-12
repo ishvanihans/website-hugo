@@ -70,3 +70,8 @@ sup {
     border-top: 1px solid var(--color-border);
     margin-bottom: var(--spacing-md);
 }
+
+/* img border radius */
+img {
+    border-radius: 0;
+}
