@@ -19,7 +19,7 @@ Much of my professional career has been spent working as a writer[^2] and now I'
 
 # Contact
 
-You can reach out to me at ishvanihans@gmail.com or connect with me on LinkedIn 
+You can reach out to me at ishvanihans@gmail.com  
 
 
 
