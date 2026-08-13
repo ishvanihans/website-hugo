@@ -6,7 +6,7 @@ title: "About"
 </figure>
 
 
-Hello, my name is Ishvani, which loosely translates to "god's language"[^1]. By [nominative determinism](https://en.wikipedia.org/wiki/Nominative_determinism) or accident, I love being a vessel for communicating ideas I find sublime.
+Hello, my name is Ishvani, which loosely translates to "god's language"[^1]. By [nominative determinism](https://en.wikipedia.org/wiki/Nominative_determinism) or accident, I have realized that the best use case of my existence is to be a vessel for communicating ideas I find sublime. 
 
 Much of my professional career has been spent working as a writer[^2] and now I'm looking for a new role at the intersection of language, systems, and human behavior. Titles are fickle and fleeting, but every now and then I come across one that makes me go HELL YES. Here are some of those, and the reason why:
 
@@ -17,12 +17,15 @@ Much of my professional career has been spent working as a writer[^2] and now I'
 - Product Owner (Specialization is for insects or [whatever Naval said](https://youtube.com/shorts/XwOnl1m60LA?si=StxETRKpoeEuVdUO). No but seriously, now that we have LLMs, it's so fun to be able ship full-fledged products where you're the sole designer, developer, writer, thinker, etc. in a short span of time; if you care about an idea, why wouldn't you want to take complete ownership of it?)
 - Venture Capitalist (I need capital and experience in the markets to get here but I love scouting and betting on dark horses, and predicting which ideas have mana)
 
+When I'm not all-consumed by looking for work[^4], I like going on long walks, reading, hanging out with folks from the few niche internet communities I lurk around[^5], and self-experimenting with nootropics. 
+
 # Contact
 
-You can reach out to me at ishvanihans@gmail.com  
-
+You can reach me at ishvanihans@gmail.com. I like opening mails that aren't spam.   
 
 
 [^1]: my idea of god is something like chaos theory. i don't think my dad was thinking about god like that while naming me. 
 [^2]: the b2b saas kind. i am so glad LLMs came into being and obliterated that role because the kind of writing i enjoy the best is one that lets me run amok. the current medium i'm using for that is shortform shitposting on <a href=https://x.com/shapegrifter>x dot com</a>
 [^3]: she said it's a compliment
+[^4]: by which i mean 2/24 hours
+[^5]: acx, tpot, ea. yes, i contain multitudes. 
