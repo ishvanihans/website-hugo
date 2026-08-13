@@ -2,10 +2,9 @@
 title: "Ishvani"
 ---
 
-## August 2026
+<figure>
+    <img src="https://ishvanihans.github.io/website-hugo/images/Escher_Relativity.jpg">
+</figure>figure>
 
-> - Looking for a job. Hire me!
-> - Listening to Michelle Gurevich, Crumb, and Ms. Lauryn Hill
-> - Reading Murakami's Norwegian Woods
-
+> Welcome to my digital garden. 
 
