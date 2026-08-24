@@ -1,6 +1,6 @@
 ---
 title: "Creating a New Theme"
-draft: false
+draft: true
 date: 2021-10-22T17:12:11+07:00
 comment: true
 tags: ["hugo"]
