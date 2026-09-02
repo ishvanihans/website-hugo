@@ -12,7 +12,7 @@ title: "Ishvani"
 # growing in this garden
 → things i'm uniquely good at
 → what i'm looking for in an employer 
-→ books I've liked
+→ books i've liked
 → things that get me excited
 → north star
 
