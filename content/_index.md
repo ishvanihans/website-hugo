@@ -6,5 +6,6 @@ title: "Ishvani"
     <img src="https://ishvanihans.github.io/website-hugo/images/Escher_Relativity.jpg">
 </figure>
 
-> Welcome to Ishvani's digital garden. 
+> Welcome to my digital garden.
+> Mind the stairs. 
 
