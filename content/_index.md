@@ -6,13 +6,13 @@ title: "Ishvani"
     <img src="https://ishvanihans.github.io/website-hugo/images/Escher_Relativity.jpg">
 </figure>
 
-> Welcome to my digital garden.
-> Mind the stairs. 
->
-> # growing in this garden
-> - things i'm uniquely good at
-> - what i'm looking for in an employer
-> - [books i've liked](https://github.com/ishvanihans/website-hugo/content/books.md)
-> - things that get me excited
-> - north star
+Welcome to my digital garden.
+Mind the stairs. 
+
+# Growing in this garden
+- Things I'm uniquely good at
+- What I'm looking for in an employer
+- [Books I'd recommend](https://ishvanihans.github.io/website-hugo/books/)
+- Things that get me excited
+- North star
 
