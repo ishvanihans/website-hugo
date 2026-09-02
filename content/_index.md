@@ -9,7 +9,7 @@ title: "Ishvani"
 > Welcome to my digital garden.
 > Mind the stairs. 
 
-#growing in this garden
+# growing in this garden
 → things i'm uniquely good at
 → what i'm looking for in an employer 
 → books I've liked
