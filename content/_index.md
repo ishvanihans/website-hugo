@@ -12,7 +12,7 @@ title: "Ishvani"
 # Growing in this garden
 - Things I'm uniquely good at
 - What I'm looking for in an employer
-- [Books I'd recommend](https://ishvanihans.github.io/website-hugo/books/)
-- Things that get me excited
+- [Bookshelf](https://ishvanihans.github.io/website-hugo/books/)
+- Things I like
 - North star
 
