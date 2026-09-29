@@ -17,7 +17,7 @@ Since Canadian citizens do not require a tourist visa to visit the United States
 I chose the principle of learnability to evaluate the first stage of the visa application process: figuring out how to apply. This is the initial stage in the process of applying for the visa and the user’s web search typically lands them on <a href=https://travel.state.gov/content/travel/en/us-visas.html>The Bureau of Consular Affairs website.</a>
 
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig1.png">
+    <img src="https://ishvanihans.github.io/images/US-visa-images/fig1.png">
     <figcaption>
         <em>Figure 1. How to Apply</em> 
     </figcaption>
@@ -28,7 +28,7 @@ At first glance, it looks like the page supports learnability well. The webpage 
 When the user clicks on the first link under ‘How to Apply’ (Figure 1) and lands on to the <a href=https://ca.usembassy.gov/>US Embassy in Canada’s website</a> to consult the instructions, the user has to wade through a series of steps (Figure 2) before finding the relevant link for scheduling an interview.  
 
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig2.png">
+    <img src="https://ishvanihans.github.io/images/US-visa-images/fig2.png">
     <figcaption>
         <em>Figure 2. US Embassy in Canada page</em> 
     </figcaption>
@@ -43,7 +43,7 @@ Additionally, the multiple websites in this information system are not stylistic
 I chose the principle of efficiency to study the aspect of ‘filling out the application form’. The information system requires personal details across domains from the user and as such, the process is quite time-consuming. While filling the form, the user cannot enter in their details in any order as they please which might slow down the process. For instance, imagine the user is seamlessly filling the application form in a coffee shop and a question requires them to enter in the details about their driver’s licence which they left at home. Now, the user cannot proceed with the application until they answer the question about their driver’s licence. The website also mentions the estimated time taken to finish the form (Figure 3)
 
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig3.png">
+    <img src="https://ishvanihans.github.io/images/US-visa-images/fig3.png">
     <figcaption>
         <em>Figure 3. Tourist visa application form</em> 
     </figcaption>
@@ -52,14 +52,14 @@ I chose the principle of efficiency to study the aspect of ‘filling out the ap
 Every time the user accesses the website to either start a new application or retrieve an existing one, they have to enter their location, a CAPTCHA, application ID, and security questions (Figures 4 and 5). After every 20 minutes, the session times out so the user would have to login again
 
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig4.png">
+    <img src="https://ishvanihans.github.io/images/US-visa-images/fig4.png">
     <figcaption>
         <em>Figure 4. Login for tourist visa application form</em> 
     </figcaption>
 </figure>
 
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig5.png">
+    <img src="https://ishvanihans.github.io/images/US-visa-images/fig5.png">
     <figcaption>
         <em>Figure 5. Tourist visa application form security questions</em> 
     </figcaption>
@@ -77,7 +77,7 @@ Overall, this aspect of the information system is not designed to foster efficie
 I chose the principle of affordance to analyse the final stage in the application process – scheduling an interview with the US Embassy in Canada. When the user visits the <a href=https://ais.usvisa-info.com/en-ca>US Embassy in Canada’s website</a> for scheduling an interview, the viewport suggests that there is nothing more to see on the landing page. (Figure 6) 
 
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig6.png">
+    <img src="https://ishvanihans.github.io/images/US-visa-images/fig6.png">
     <figcaption>
         <em>Figure 6. Landing page for scheduling the visa interview</em> 
     </figcaption>
@@ -86,7 +86,7 @@ I chose the principle of affordance to analyse the final stage in the applicatio
 It’s only after the user scrolls down further that they find a signifier that tells them to scroll down for more information (Figure 7). This is a case of misplaced affordance and the user would have benefited if the signifier (the down arrow) was positioned correctly, within the initial viewport to better communicate that the page continues.
 
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig7.png">
+    <img src="https://ishvanihans.github.io/images/US-visa-images/fig7.png">
     <figcaption>
         <em>Figure 7. Signifier(down arrow) placed below the viewport height</em> 
     </figcaption>
@@ -95,14 +95,14 @@ It’s only after the user scrolls down further that they find a signifier that 
 Once the user gets past the landing page, they have to create an account to book a visa interview. The website asks the user a series of questions and makes use of familiar screen-based conventions like radio buttons, text areas, and checkboxes (Figures 8 and 9). These interface elements clearly communicate how they should be used and effectively support user interaction.
 
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig8.png">
+    <img src="https://ishvanihans.github.io/images/US-visa-images/fig8.png">
     <figcaption>
         <em>Figure 8. Visa interviewing scheduling page with radio buttons</em> 
     </figcaption>
 </figure>
 
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/US-visa-images/fig9.png">
+    <img src="https://ishvanihans.github.io/images/US-visa-images/fig9.png">
     <figcaption>
         <em>Figure 9. Visa interviewing scheduling page with text area and checkboxes</em> 
     </figcaption>
