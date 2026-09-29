@@ -10,7 +10,7 @@ title: "Ishvani"
 > Mind the stairs. 
 
 # Growing in this garden
-- Things I'm uniquely good at
+- [Things I'm good at](https://ishvanihans.github.io/unique-strengths.md/)
 - What I'm looking for in an employer
 - [Bookshelf](https://ishvanihans.github.io/books/)
 - Things I like
