@@ -75,3 +75,7 @@ sup {
 img {
     border-radius: 0;
 }
+
+.projects-list details {
+    margin-bottom: 1rem;
+}
