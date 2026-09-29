@@ -3,7 +3,7 @@ title: "Ishvani"
 ---
 
 <figure>
-    <img src="https://ishvanihans.github.io/website-hugo/images/Escher_Relativity.jpg">
+    <img src="https://ishvanihans.github.io/images/Escher_Relativity.jpg">
 </figure>
 
 > Welcome to my digital garden.<br>
@@ -12,7 +12,7 @@ title: "Ishvani"
 # Growing in this garden
 - Things I'm uniquely good at
 - What I'm looking for in an employer
-- [Bookshelf](https://ishvanihans.github.io/website-hugo/books/)
+- [Bookshelf](https://ishvanihans.github.io/books/)
 - Things I like
 - North star
 
